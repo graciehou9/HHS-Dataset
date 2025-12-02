@@ -1,6 +1,4 @@
-# HHS-Dataset
-
-# COVID-19 Hospital Impact and Capacity Analysis
+# HHS-Dataset: COVID-19 Hospital Impact and Capacity Analysis
 
 ## Overview
 This notebook performs an exploratory data analysis on COVID-19 reported patient impact and hospital capacity data across various states. The primary goal is to analyze and visualize key metrics related to hospital resource utilization and patient admissions, aggregated at the state level.
